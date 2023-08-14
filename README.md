@@ -7,7 +7,10 @@ There is a 4 twistable 3x3 game blocks in Pentagol. The goal is to put four cons
 In this picture you can see a real plate of the game.
 <img src="https://www.ultraboardgames.com/pentago/gfx/game32.jpg" width="400"/>
 # Parts of project
-In "CA & Report" folder you can see the descreption of project and a flowchart that I've drawn it. This project must implemented in two ways. Once in terminal environment and once in graphical environment. So, There are two folder In  "Codes" folder. One for the graphical environment and one for the terminal environment. To run Pentagol in graphical environment you must use "bgi" that developed by teacher asisstants of the course.
+In [CA & Report](https://github.com/mahdimoeini8102/ICSP_Pentagol/tree/main/CA%20%26%20Report) folder you can see the descreption of project and a flowchart that I've drawn it. This project must implemented in two ways. One in terminal environment and one in a graphical environment. So, There are two folder In [Codes](https://github.com/mahdimoeini8102/ICSP_Pentagol/tree/main/Codes) folder. One for the graphical environment and one for the terminal environment.
+Also, there is a "BGI2010" zipped file that developed by teacher assistants of the course and we used it to have a graphical environment using C. You can download and use.
 # How to run
-
+Just go to [Executable Files](https://github.com/mahdimoeini8102/ICSP_Pentagol/tree/main/Executable%20Files) and download two .exe files. One is the game in terminal environment and another is the game in a graphical environment. You can see these two pictures from them:
+<img src="/images/Graphical Environment.png" width="400"/>
+<img src="/images/Terminal Environment.png" width="400"/>
 # How to play
