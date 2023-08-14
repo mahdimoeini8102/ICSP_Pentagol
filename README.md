@@ -11,6 +11,6 @@ In [CA & Report](https://github.com/mahdimoeini8102/ICSP_Pentagol/tree/main/CA%2
 Also, there is a "BGI2010" zipped file that developed by teacher assistants of the course and we used it to have a graphical environment using C. You can download and use.
 # How to run
 Just go to [Executable Files](https://github.com/mahdimoeini8102/ICSP_Pentagol/tree/main/Executable%20Files) and download two .exe files. One is the game in terminal environment and another is the game in a graphical environment. You can see these two pictures from them:
-<img src="/images/Graphical Environment.png" width="400"/>
-<img src="/images/Terminal Environment.png" width="400"/>
+<img src="/Images/Graphical Environment.png" width="400"/>
+<img src="/Images/Terminal Environment.png" width="400"/>
 # How to play
