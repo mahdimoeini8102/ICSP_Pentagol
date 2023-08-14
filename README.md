@@ -14,4 +14,14 @@ Just go to [Executable Files](https://github.com/mahdimoeini8102/ICSP_Pentagol/t
 
 <img src="/Images/Graphical Environment.png" height="200"/>
 <img src="/Images/Terminal Environment.png" height="200"/>
+
 # How to play
+## Terminal Environment
+In the Terminal you can see a borad game and black must start at the begining. You can see some character in the board that meanings of them are as follow:
+|Type| Image|
+|--|--|
+|Numbers like 1 2 3 ...|They show rows and columns of the borad.|
+|Dot like .|They show free spaces in the game.|
+|Boarders like -- or | |They are boarders of 4 twistable 3x3 game blocks|
+|'b'|It stands for Black.|
+|'w'|It stands for White.|
