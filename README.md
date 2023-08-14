@@ -29,11 +29,8 @@ In the terminal you can see a board game and black must start at the beginning. 
 |'w'|It stands for White.|
 
 As I said, in the beginning black player must start. To start, He\She should enter a two-digit number in which, the first digit represents as the row and second one represents as the column. For example 23 means black player wants to put his/her marble in second row and third column. After it, he/she must enter a number together with '+' or '-'. such as "4+". It means clockwise twisting of forth square. The board has been divided to 4 part as follow:
-|||
-|-|-|
-|2|1|
-|3|4|
-|||
+21
+34
 After that black player played, it turns white player. The white player must do such as the black player and the game is going on. 
 
 ## Graphical Environment
