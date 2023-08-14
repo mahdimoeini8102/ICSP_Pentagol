@@ -20,7 +20,7 @@ Just go to [Executable Files](https://github.com/mahdimoeini8102/ICSP_Pentagol/t
 
 # How to play
 ## Terminal Environment
-In the terminal you can see a board game and black must start at the beginning. You can see some character in the board that meanings of them are as follow:
+In the terminal you can see a board game and black must start at the beginning. You can see some character on the board that meanings of them are as follow:
 |Type| Image|
 |--|--|
 |Numbers like '1', '2', '3', ...|They show rows and columns of the board.|
@@ -29,11 +29,11 @@ In the terminal you can see a board game and black must start at the beginning. 
 |'b'|It stands for Black.|
 |'w'|It stands for White.|
 
-As I said, in the beginning black player must start. To start, He\She should enter a two-digit number in which, the first digit represents as the row and second one represents as the column. For example 23 means black player wants to put his/her marble in second row and third column. After it, he/she must enter a number together with '+' or '-'. such as "4+". It means clockwise twisting of forth square. The board has been divided to 4 part as follow:
+As I said, in the beginning, the black player must start. To start, He\She should enter a two-digit number in which, the first digit represents the row and the second one represents the column. For example, 23 means the black player wants to put his/her marble in the second row and third column. After it, he/she must enter a number together with '+' or '-'. such as "4+". It means the clockwise twisting of the fourth square. The board has been divided into 4 part as follow:
 <br>21
 <br>
 34<br>
-After that black player played, it turns white player. The white player must do such as the black player and the game is going on. 
+After the black player has played, it is the white player's turn. The white player must do such as the black player and the game is going on. 
 
 ## Graphical Environment
-In the graphical environment you have a board game like a real one. Use 'w', 'a', 's', and 'd' to move the square-shaped pointer and press 'f' to submit your action. After that press a number (that represents your intended square to twist). When you choose a square, it will be crosshatched and you can change your opinion. After that press '+' or '-' for twisting.
+In the graphical environment, you have a board game like a real one. Use 'w', 'a', 's', and 'd' to move the square-shaped pointer and press 'f' to submit your action. After that press a number (that represents your intended square to twist). When you choose a square, it will be crosshatched and you can change your opinion. After that press '+' or '-' for twisting.
