@@ -1,5 +1,6 @@
 
 
+
 # ICSP_Pentagol
 This is my first serious project in Introduction to Computer Systems and Programming course at university under supervision of [Dr. Manouchehr Moradisabzevar](https://ece.ut.ac.ir/en/~moradih). It's a game like Pentago but with a different rule. You must create L pattern instead of I pattern to win. Check out [here](https://www.ultraboardgames.com/pentago/game-rules.php) to have more information about Pentago.
 # What is Pentagol
@@ -28,11 +29,7 @@ In the terminal you can see a board game and black must start at the beginning. 
 |'b'|It stands for Black.|
 |'w'|It stands for White.|
 
-As I said, in the beginning black player must start. To start, He\She should enter a two-digit number in which, the first digit represents as the row and second one represents as the column. For example 23 means black player wants to put his/her marble in second row and third column. After it, he/she must enter a number together with '+' or '-'. such as "4+". It means clockwise twisting of forth square. The board has been divided to 4 part as follow:
-21
-34
-
-After that black player played, it turns white player. The white player must do such as the black player and the game is going on. 
+As I said, in the beginning black player must start. To start, He\She should enter a two-digit number in which, the first digit represents as the row and second one represents as the column. For example 23 means black player wants to put his/her marble in second row and third column. After it, he/she must enter a number together with '+' or '-'. such as "4+". It means clockwise twisting of forth square. The board has been divided to 4 part as follow:<br>21<br>34<br>After that black player played, it turns white player. The white player must do such as the black player and the game is going on. 
 
 ## Graphical Environment
 In the graphical environment you have a board game like a real one. Use 'w', 'a', 's', and 'd' to move the square-shaped pointer and press 'f' to submit your action. After that press a number (that represents your intended square to twist). When you choose a square, it will be crosshatched and you can change your opinion. After that press '+' or '-' for twisting.
